@@ -1,4 +1,4 @@
-# Assignment 1 — Learning PDF using GAN
+# Assignment 2 — Learning PDF using GAN (Data Only)
 
 **Course:** Advanced Mathematics  
 **Roll Number:** 102303497  
@@ -171,7 +171,7 @@ python gan_pdf_estimation.py
 ## File Structure
 
 ```
-Advanced_mathematics_assignement_1/
+Advanced_mathematics_assignment_2/
 ├── gan_pdf_estimation.py    # Main GAN script
 ├── gan_pdf_result.png       # PDF + loss plot
 ├── gan_comparison.png       # Distribution comparison
